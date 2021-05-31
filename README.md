@@ -10,10 +10,13 @@
 💡 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently pursuing my Btech in Information Technology at Jaipur Engineering College And Research Centre.\
 🌱 &nbsp;I'm on track for learning more about web development and building amazing web apps that can reduce human efforts.\
+✍️ &nbsp;I also know basics of deep learning and data analysis with python and have built projects using same.\
 ✍️ &nbsp;In my free time, I pursue competitive coding and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at vaishaligoyal878@gmail.com . I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1XTHAgR1rKQjq5TqqGvQa3i7V2cNOkOYv/view) for more details about me. I'm open to feedback and suggestions!\
-🌱 &nbsp;[Hackerrank](https://www.hackerrank.com/vaishaligoyal878?hr_r=1) | [Codeforces](https://codeforces.com/profile/vaishaligoyal878) | [Codechef](https://www.codechef.com/users/vaishali878) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vaishaligoyal878/practice/) | [Leetcode](https://leetcode.com/vaishaligoyal878/) 
+🌱 &nbsp;[Hackerrank](https://www.hackerrank.com/vaishaligoyal878?hr_r=1) | [Codeforces](https://codeforces.com/profile/vaishaligoyal878) | [Codechef](https://www.codechef.com/users/vaishali878) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vaishaligoyal878/practice/) | [Leetcode](https://leetcode.com/vaishaligoyal878/)/
+
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
